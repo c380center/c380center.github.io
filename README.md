@@ -1,3 +1,2 @@
-# C380HQ - a C380.center Homepage at GitHub
+# Initial page
 
-A static website representing the Code380.center
